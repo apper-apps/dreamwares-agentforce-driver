@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "name": "Case Management",
+    "description": "Streamline case management processes, assign tasks, and track resolution progress with intelligent automation and workflow optimization.",
+    "benefits": [
+      "Automated case routing and assignment",
+      "Priority-based escalation rules",
+      "Real-time progress tracking",
+      "SLA monitoring and alerts",
+      "Performance analytics and reporting"
+    ]
+  },
+  {
+    "Id": 2,
+    "name": "Knowledge Base",
+    "description": "Provide agents with access to comprehensive knowledge bases for quick and accurate answers, reducing resolution time and improving customer satisfaction.",
+    "benefits": [
+      "Centralized knowledge repository",
+      "Smart search and recommendations",
+      "Version control and approval workflows",
+      "Usage analytics and optimization",
+      "Multi-language support"
+    ]
+  },
+  {
+    "Id": 3,
+    "name": "Omni-Channel Support",
+    "description": "Enable agents to handle customer interactions across multiple channels, including phone, email, chat, and social media, from a single unified interface.",
+    "benefits": [
+      "Unified customer interaction history",
+      "Channel-specific routing rules",
+      "Agent skill-based assignments",
+      "Real-time queue management",
+      "Cross-channel conversation continuity"
+    ]
+  },
+  {
+    "Id": 4,
+    "name": "Analytics",
+    "description": "Track and analyze key metrics to identify trends, improve performance, and identify areas for improvement with powerful reporting and dashboard capabilities.",
+    "benefits": [
+      "Real-time performance dashboards",
+      "Custom KPI tracking",
+      "Trend analysis and forecasting",
+      "Agent performance metrics",
+      "Customer satisfaction insights"
+    ]
+  },
+  {
+    "Id": 5,
+    "name": "Integration",
+    "description": "Integrate AgentForce with other Salesforce applications for a unified customer experience, ensuring seamless data flow and comprehensive customer insights.",
+    "benefits": [
+      "360-degree customer view",
+      "Automated data synchronization",
+      "Workflow automation across systems",
+      "Unified reporting and analytics",
+      "Enhanced productivity tools"
+    ]
+  },
+  {
+    "Id": 6,
+    "name": "AI-Powered Automation",
+    "description": "Leverage artificial intelligence to automate routine tasks, provide intelligent recommendations, and enhance agent productivity through smart assistance.",
+    "benefits": [
+      "Intelligent case classification",
+      "Automated response suggestions",
+      "Predictive analytics for proactive support",
+      "Sentiment analysis and insights",
+      "Smart knowledge article recommendations"
+    ]
+  }
+]

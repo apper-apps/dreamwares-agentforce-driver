@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "title": "Implementation",
+    "description": "Seamlessly integrate AgentForce into your Salesforce environment with our expert implementation services. We handle the complete setup process from initial configuration to go-live support.",
+    "icon": "Rocket",
+    "features": [
+      "Complete AgentForce setup and configuration",
+      "Data migration and system integration",
+      "Custom workflow design and automation",
+      "User role configuration and permissions",
+      "Testing and quality assurance",
+      "Go-live support and monitoring"
+    ]
+  },
+  {
+    "Id": 2,
+    "title": "Customization",
+    "description": "Tailor AgentForce to your specific business processes and workflows. Our customization services ensure the platform works exactly how your team needs it to work.",
+    "icon": "Settings",
+    "features": [
+      "Custom field creation and management",
+      "Business process automation",
+      "Custom dashboards and reporting",
+      "Workflow rule configuration",
+      "Approval process design",
+      "Custom object relationships"
+    ]
+  },
+  {
+    "Id": 3,
+    "title": "Integration",
+    "description": "Connect AgentForce with other Salesforce applications and third-party systems for a unified customer experience. Seamless data flow across all your business systems.",
+    "icon": "Link",
+    "features": [
+      "Salesforce ecosystem integration",
+      "Third-party application connections",
+      "API development and management",
+      "Real-time data synchronization",
+      "Legacy system migration",
+      "Multi-platform compatibility"
+    ]
+  },
+  {
+    "Id": 4,
+    "title": "Training",
+    "description": "Provide comprehensive training to your agents on AgentForce usage. From basic navigation to advanced features, we ensure your team is fully equipped for success.",
+    "icon": "GraduationCap",
+    "features": [
+      "Administrator training programs",
+      "End-user training sessions",
+      "Custom training materials",
+      "Hands-on workshops",
+      "Certification preparation",
+      "Ongoing skill development"
+    ]
+  },
+  {
+    "Id": 5,
+    "title": "Ongoing Support",
+    "description": "Receive ongoing support and maintenance for your AgentForce solution. Our dedicated support team ensures your system runs smoothly and efficiently at all times.",
+    "icon": "Headphones",
+    "features": [
+      "24/7 technical support",
+      "System health monitoring",
+      "Performance optimization",
+      "Regular updates and maintenance",
+      "Issue resolution and troubleshooting",
+      "Best practices consultation"
+    ]
+  }
+]
